@@ -57,7 +57,3 @@
 📌 **Email**: [darshan922000@.com](mailto:darshan922000@.com)  
 
 💬 **Looking for AI collaborations, research discussions, or networking? Let’s connect!**  
-
----
-
-⭐ **If you like my work, feel free to star my repositories and visit my portfolio!** 🚀
