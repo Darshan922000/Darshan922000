@@ -2,6 +2,8 @@
 
 🚀 **AI Engineer | Machine Learning & NLP Specialist | AI Researcher**  
 
+![Banner](https://darshan-portfolio.onrender.com/img/banner.png)  
+
 Welcome to my GitHub! I am passionate about **Artificial Intelligence, Deep Learning, NLP, and Generative AI**. I enjoy building intelligent systems, solving complex problems, and exploring cutting-edge AI research.
 
 🌐 **Check out my portfolio:** [darshan-portfolio.onrender.com](https://darshan-portfolio.onrender.com/)  
@@ -21,16 +23,19 @@ Welcome to my GitHub! I am passionate about **Artificial Intelligence, Deep Lear
 
 ## 🚀 **Featured Projects**
 ### 🤖 **Chatbot using LangChain**
+![Chatbot](https://darshan-portfolio.onrender.com/img/chatbot.webp)
 - Developed a **context-aware chatbot** using **LangChain** and **GPT models**.
 - Integrated **LLMs and knowledge retrieval** for intelligent responses.
 - 🔗 **[Live Demo & GitHub](https://github.com/Darshan922000/Simple-Chatbot.git)**
 
 ### 📄🔍 **Retrieval-Augmented Generation (RAG) System**
+![RAG System](https://darshan-portfolio.onrender.com/img/RAG.webp)
 - Built an **AI-driven document retrieval system** using **LangChain & Hugging Face**.
 - Enhanced **response accuracy** with **fine-tuned LLMs**.
 - 🔗 **[GitHub Repository](https://github.com/Darshan922000/Retrieval-Augmented-Generation)**
 
 ### 📊 **Math Score Prediction**
+![Math Prediction](https://darshan-portfolio.onrender.com/img/mathscoreprediction.webp)
 - Created a **machine learning pipeline** for **student score prediction**.
 - Used **XGBoost, Scikit-Learn, and feature engineering** to optimize performance.
 - 🔗 **[GitHub Repository](https://github.com/Darshan922000/End-To-End-ML_Project-Azure-Deployment.git)**
@@ -40,6 +45,8 @@ More projects are available on **[My Portfolio](https://darshan-portfolio.onrend
 ---
 
 ## 🛠 **Tech Stack & Expertise**
+![Tech Stack](https://darshan-portfolio.onrender.com/img/techstack.png)
+
 💻 **Programming:** Python, JavaScript  
 📊 **Machine Learning:** TensorFlow, PyTorch, XGBoost, Scikit-Learn  
 🤖 **AI & NLP:** LangChain, Hugging Face, OpenAI API, LangGraph  
@@ -52,7 +59,7 @@ More projects are available on **[My Portfolio](https://darshan-portfolio.onrend
 🌐 **Portfolio:** [darshan-portfolio.onrender.com](https://darshan-portfolio.onrender.com/)  
 🔗 **LinkedIn:** [linkedin.com/in/darshan922000/](https://www.linkedin.com/in/darshan922000/)  
 💻 **GitHub:** [github.com/Darshan922000](https://github.com/Darshan922000)  
-📧 **Email:** darshan922000@gmail.com  
+📧 **Email:** darshan@example.com  
 
 💬 **Looking for AI collaborations, research discussions, or networking? Let’s connect!**  
 
