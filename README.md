@@ -1,56 +1,61 @@
 # 👋 Hi, I'm Darshan Patel! 
 
-**AI Engineer | Machine Learning & NLP Specialist | AI Researcher**  
+🚀 **AI Engineer | Machine Learning & NLP Specialist | AI Researcher**  
 
-🚀 Passionate about Artificial Intelligence, Deep Learning, and NLP. I love building AI-powered applications, contributing to open-source projects, and exploring cutting-edge technologies.
+Welcome to my GitHub! I am passionate about **Artificial Intelligence, Deep Learning, NLP, and Generative AI**. I enjoy building intelligent systems, solving complex problems, and exploring cutting-edge AI research.
+
+🌐 **Check out my portfolio:** [darshan-portfolio.onrender.com](https://darshan-portfolio.onrender.com/)  
 
 ---
 
 ## 🔥 **About Me**
-- 🎓 **AI & Data Science Enthusiast** with a strong background in Machine Learning and NLP.
-- 🤖 **Experience in AI Research & Development** with hands-on expertise in AI-driven projects.
-- 🛠 **Tech Stack:** Python, TensorFlow, PyTorch, LangChain, FastAPI, OpenCV, XGBoost, Hugging Face, Docker, AWS, and more.
-- 📚 Constantly learning and applying new technologies to solve real-world problems.
+- 🎓 **AI Enthusiast** with expertise in **Machine Learning, NLP, Computer Vision, and LLMs**.
+- 🤖 Experienced in **AI research & development**, working on **LangChain, LLMs, and Deep Learning**.
+- 💡 Constantly exploring **Generative AI, LangGraph, and Retrieval-Augmented Generation (RAG)**.
+- 🛠 **Tech Stack:** Python, TensorFlow, PyTorch, LangChain, FastAPI, OpenCV, Docker, AWS, Azure.
+
+📢 **Want to know more?**  
+🔗 Visit **[My Portfolio](https://darshan-portfolio.onrender.com/)** for a detailed view of my journey, projects, and experience.
 
 ---
 
-## 💡 **Projects**
-Here are some of my notable projects:
-
+## 🚀 **Featured Projects**
 ### 🤖 **Chatbot using LangChain**
-- Built a chatbot leveraging **LangChain** and **LLMs** for intelligent conversations.
-- Integrated GPT models and open-source AI frameworks for context-aware responses.
-- 🔗 [GitHub Repository](https://github.com/Darshan922000/Simple-Chatbot.git)
+- Developed a **context-aware chatbot** using **LangChain** and **GPT models**.
+- Integrated **LLMs and knowledge retrieval** for intelligent responses.
+- 🔗 **[Live Demo & GitHub](https://github.com/Darshan922000/Simple-Chatbot.git)**
 
 ### 📄🔍 **Retrieval-Augmented Generation (RAG) System**
-- Developed a **document retrieval and Q&A system** using **LangChain & Hugging Face**.
-- Improved response accuracy with **fine-tuned LLMs and knowledge bases**.
-- 🔗 [GitHub Repository](https://github.com/Darshan922000/Retrieval-Augmented-Generation)
+- Built an **AI-driven document retrieval system** using **LangChain & Hugging Face**.
+- Enhanced **response accuracy** with **fine-tuned LLMs**.
+- 🔗 **[GitHub Repository](https://github.com/Darshan922000/Retrieval-Augmented-Generation)**
 
 ### 📊 **Math Score Prediction**
-- Created an end-to-end ML pipeline for **student score prediction**.
-- Applied **XGBoost, scikit-learn, and feature engineering** to enhance accuracy.
-- 🔗 [GitHub Repository](https://github.com/Darshan922000/End-To-End-ML_Project-Azure-Deployment.git)
+- Created a **machine learning pipeline** for **student score prediction**.
+- Used **XGBoost, Scikit-Learn, and feature engineering** to optimize performance.
+- 🔗 **[GitHub Repository](https://github.com/Darshan922000/End-To-End-ML_Project-Azure-Deployment.git)**
+
+More projects are available on **[My Portfolio](https://darshan-portfolio.onrender.com/projects.html/)**! 🚀
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠 **Tech Stack & Expertise**
 💻 **Programming:** Python, JavaScript  
 📊 **Machine Learning:** TensorFlow, PyTorch, XGBoost, Scikit-Learn  
-🤖 **AI & NLP:** LangChain, Hugging Face, OpenAI API  
+🤖 **AI & NLP:** LangChain, Hugging Face, OpenAI API, LangGraph  
 ⚙️ **DevOps & Cloud:** Docker, FastAPI, AWS, Azure  
 📂 **Version Control:** Git, GitHub, DagsHub  
 
 ---
 
 ## 📫 **Let's Connect!**
-🔗 **Portfolio Website:** [darshan-portfolio.onrender.com](https://darshan-portfolio.onrender.com/)  
+🌐 **Portfolio:** [darshan-portfolio.onrender.com](https://darshan-portfolio.onrender.com/)  
 🔗 **LinkedIn:** [linkedin.com/in/darshan922000/](https://www.linkedin.com/in/darshan922000/)  
-🔗 **GitHub:** [github.com/Darshan922000](https://github.com/Darshan922000)  
-📧 **Email:** darshan@example.com  
+💻 **GitHub:** [github.com/Darshan922000](https://github.com/Darshan922000)  
+📧 **Email:** darshan922000@gmail.com  
 
-💬 Feel free to reach out for AI collaborations, research discussions, or networking!
+💬 **Looking for AI collaborations, research discussions, or networking? Let’s connect!**  
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories and connect with me!** 🚀
+⭐ **If you like my work, feel free to star my repositories and visit my portfolio!** 🚀
