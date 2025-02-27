@@ -23,19 +23,22 @@ Welcome to my GitHub! I am passionate about **Artificial Intelligence, Deep Lear
 
 ## 🚀 **Featured Projects**
 ### 🤖 **Chatbot using LangChain**
-![Chatbot](https://darshan-portfolio.onrender.com/img/chatbot.webp)
+<img src="https://darshan-portfolio.onrender.com/img/chatbot.webp" alt="Chatbot" width="500">
+
 - Developed a **context-aware chatbot** using **LangChain** and **GPT models**.
 - Integrated **LLMs and knowledge retrieval** for intelligent responses.
 - 🔗 **[Live Demo & GitHub](https://github.com/Darshan922000/Simple-Chatbot.git)**
 
 ### 📄🔍 **Retrieval-Augmented Generation (RAG) System**
-![RAG System](https://darshan-portfolio.onrender.com/img/RAG.webp)
+<img src="https://darshan-portfolio.onrender.com/img/RAG.webp" alt="RAG System" width="500">
+
 - Built an **AI-driven document retrieval system** using **LangChain & Hugging Face**.
 - Enhanced **response accuracy** with **fine-tuned LLMs**.
 - 🔗 **[GitHub Repository](https://github.com/Darshan922000/Retrieval-Augmented-Generation)**
 
 ### 📊 **Math Score Prediction**
-![Math Prediction](https://darshan-portfolio.onrender.com/img/mathscoreprediction.webp)
+<img src="https://darshan-portfolio.onrender.com/img/mathscoreprediction.webp" alt="Math Prediction" width="500">
+
 - Created a **machine learning pipeline** for **student score prediction**.
 - Used **XGBoost, Scikit-Learn, and feature engineering** to optimize performance.
 - 🔗 **[GitHub Repository](https://github.com/Darshan922000/End-To-End-ML_Project-Azure-Deployment.git)**
@@ -45,7 +48,7 @@ More projects are available on **[My Portfolio](https://darshan-portfolio.onrend
 ---
 
 ## 🛠 **Tech Stack & Expertise**
-![Tech Stack](https://darshan-portfolio.onrender.com/img/techstack.png)
+<img src="https://darshan-portfolio.onrender.com/img/techstack.png" alt="Tech Stack" width="500">
 
 💻 **Programming:** Python, JavaScript  
 📊 **Machine Learning:** TensorFlow, PyTorch, XGBoost, Scikit-Learn  
