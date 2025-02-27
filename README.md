@@ -40,6 +40,8 @@
 [![Hugging Face Transformers](https://img.shields.io/badge/-Hugging%20Face-FFCC00?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/docs/transformers/index) 
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
 [![Ollama](https://img.shields.io/badge/-Ollama-008080?style=flat-square&logo=openai&logoColor=white)](https://ollama.com/)  
+[![Groq](https://img.shields.io/badge/-Groq-FF4500?style=flat-square&logo=groq&logoColor=white)](https://groq.com/)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
 ### **Agentic AI**  
 [![LangGraph](https://img.shields.io/badge/-LangGraph-4A90E2?style=flat-square&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langgraph) 
