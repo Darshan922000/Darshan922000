@@ -48,7 +48,7 @@
 [![LangSmith](https://img.shields.io/badge/-LangSmith-0052CC?style=flat-square&logo=langchain&logoColor=white)](https://smith.langchain.com/) 
 [![CrewAI](https://img.shields.io/badge/-CrewAI-000000?style=flat-square&logo=langchain&logoColor=white)](https://github.com/joaomdmoura/crewAI)  
 
-### ** Data Visualization Tool** 
+### **Data Visualization Tool** 
 [![Tableau](https://img.shields.io/badge/-Tableau-005F9E?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 ---
